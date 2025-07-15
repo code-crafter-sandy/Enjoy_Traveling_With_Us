@@ -1,0 +1,73 @@
+[
+    {
+      "username": "john_doe",
+      "bookingDate": "2024-12-26",
+      "rent": 500,
+      "busNumber": "MH01AB1234",
+      "busName": "City Express"
+    },
+    {
+      "username": "jane_smith",
+      "bookingDate": "2024-12-27",
+      "rent": 450,
+      "busNumber": "MH02CD5678",
+      "busName": "Metro Line"
+    },
+    {
+      "username": "alice_johnson",
+      "bookingDate": "2024-12-28",
+      "rent": 600,
+      "busNumber": "MH03EF9012",
+      "busName": "Rapid Transit"
+    },
+    {
+      "username": "bob_brown",
+      "bookingDate": "2024-12-29",
+      "rent": 550,
+      "busNumber": "MH04GH3456",
+      "busName": "Comfort Ride"
+    },
+    {
+      "username": "charlie_davis",
+      "bookingDate": "2024-12-30",
+      "rent": 700,
+      "busNumber": "MH05IJ7890",
+      "busName": "Luxury Coach"
+    },
+    {
+      "username": "emily_clark",
+      "bookingDate": "2024-12-31",
+      "rent": 480,
+      "busNumber": "MH06KL1234",
+      "busName": "Swift Shuttle"
+    },
+    {
+      "username": "david_miller",
+      "bookingDate": "2025-01-01",
+      "rent": 520,
+      "busNumber": "MH07MN5678",
+      "busName": "Urban Cruiser"
+    },
+    {
+      "username": "sophia_wilson",
+      "bookingDate": "2025-01-02",
+      "rent": 620,
+      "busNumber": "MH08OP9012",
+      "busName": "Eco Line"
+    },
+    {
+      "username": "ethan_moore",
+      "bookingDate": "2025-01-03",
+      "rent": 450,
+      "busNumber": "MH09QR3456",
+      "busName": "Fast Track"
+    },
+    {
+      "username": "olivia_taylor",
+      "bookingDate": "2025-01-04",
+      "rent": 580,
+      "busNumber": "MH10ST7890",
+      "busName": "Green Transit"
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+[
+    {
+      "desc": "A luxury bus service offering comfortable long-distance travel with amenities like Wi-Fi and refreshments.",
+      "woner": "Rajesh Kumar",
+      "bustype": "Luxury"
+    },
+    {
+      "desc": "A budget-friendly bus service connecting rural areas to major cities.",
+      "woner": "Anita Sharma",
+      "bustype": "Economy"
+    },
+    {
+      "desc": "A premium sleeper bus service for overnight travel with reclining seats and privacy curtains.",
+      "woner": "Vikram Singh",
+      "bustype": "Sleeper"
+    },
+    {
+      "desc": "A sightseeing tour bus offering guided tours to popular tourist destinations.",
+      "woner": "Priya Mehta",
+      "bustype": "Tourist"
+    },
+    {
+      "desc": "An intercity express bus known for its punctuality and fast service.",
+      "woner": "Arjun Patel",
+      "bustype": "Express"
+    }
+  ]
+  
